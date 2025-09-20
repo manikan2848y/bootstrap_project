@@ -1,22 +1,28 @@
-# Bootstrap Project
+# 🌍 Travel Explorer - Tourism Website
 
-A simple multi-page website built using **Bootstrap 5**.  
-Pages included:
-- Home (`index.html`)
-- About (`about.html`)
-- Contact (`contact.html`)
+A responsive tourism website built with **Bootstrap 5**.  
+Deployed with GitHub Pages.
 
-## Features
-- Responsive Navbar
-- Hero Section
-- Features Section with Cards
-- Contact Form
-- Footer
+## 📌 Pages
+- **Home** → Hero section + featured destinations  
+- **About** → Info about the travel agency, mission & vision  
+- **Contact** → Contact form  
 
-## Deployment
-Live Demo 👉 [GitHub Pages Link](https://manikan2848y.github.io/bootstrap_project/)
+## 🚀 Features
+- Responsive design (works on mobile, tablet, desktop)  
+- Bootstrap components (navbar, cards, forms, footer)  
+- Free Unsplash images for destinations  
 
-## Reflection
-- Explored Bootstrap 5 components
-- Learned about responsive design
-- Completed as part of internship task
+## 🔗 Live Demo
+👉 [Click Here](https://manikan2848y.github.io/bootstrap_project/)
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- GitHub Pages (for deployment)  
+
+## 💡 Reflection
+- Learned Bootstrap layout & components  
+- Built a multi-page responsive website  
+- Improved Git & GitHub workflow
